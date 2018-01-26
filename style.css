@@ -1,0 +1,50 @@
+
+
+.fond
+{
+	width: 600px;	
+	height: 650px;
+	position: relative;
+	top: 10em;
+	left: 47.5em;
+	background-image: url('https://s30.postimg.org/tycvlfagh/background.png') ;
+	background-size: cover;
+	overflow: hidden;	
+}
+
+body
+{
+	overflow: hidden;
+	position: absolute;
+
+	height: 1080px;
+	background-color: #005750;
+}
+
+#birdimg
+{
+	position: absolute;
+	width: 2.5em;
+}
+
+.bird
+{
+	position: absolute;
+	bottom: 40%;
+    left: 40%;
+}
+
+.screen 
+{
+	width: 350px;
+    margin: 50px auto ;
+
+}
+
+.pipe
+{
+	position: relative;
+	left: 35em;
+	bottom:10em;
+}
+
